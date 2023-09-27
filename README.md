@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vladanskoko
 - 👀 I’m interested in Java and Spring Boot
 - 🌱 I’m currently learning Dart and Flutter but I am going to start to learn Spring Boot 3 soon
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some Java projects
 - 📫 How to reach me ...
 
 <!---
