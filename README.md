@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://app.daily.dev/vladanskoko"><img src="https://api.daily.dev/devcards/72dd62a676104f08bbe6433d54cdb2b4.png?r=lme" width="400" alt="Vladan Skoko's Dev Card"/></a>
+
+![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,jquery,html,css,bootstrap,cs,dotnet,cpp,c,git,github,idea,eclipse,postman,mysql,linux&perline=9)
