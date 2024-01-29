@@ -15,13 +15,8 @@ My Skills:
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,jquery,html,css,bootstrap,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,mysql,linux&perline=10)
 
-My LinkedIn Profile and Email Address:
+My LinkedIn Profile:
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/vladanskoko/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:vladanskoko@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/vladanskoko/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
