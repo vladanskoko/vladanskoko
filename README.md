@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladanskoko
-- 👀 I’m interested in Java and Spring Boot
-- 🌱 I’m currently learning Spring Boot 3
+- 👀 I’m interested in Java, Spring Boot and JavaScript
+- 🌱 I’m currently learning Spring Boot 3 and Kotlin
 - 💞️ I’m looking to collaborate on interesting Java Spring Boot projects
 - 📫 How to reach me: vladanskoko@gmail.com
 
