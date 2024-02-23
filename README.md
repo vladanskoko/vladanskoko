@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 My Skills:
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,jquery,html,css,bootstrap,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,mysql,linux&perline=10)
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,javascript,jquery,html,css,bootstrap,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,mysql,linux&perline=7)
 
 My LinkedIn Profile:
 
