@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vladanskoko
 - 👀 I’m interested in Java, Spring Boot and JavaScript
 - 🌱 I’m currently learning Spring Boot 3 and Kotlin
-- 💞️ I’m looking to collaborate on interesting Java Spring Boot projects
+- 💞️ I’m looking to collaborate on interesting Java Spring Boot and Kotlin projects
 - 📫 How to reach me: vladanskoko@gmail.com
 
 <!---
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 My Skills:
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,javascript,jquery,html,css,bootstrap,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,mysql,linux&perline=7)
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,javascript,jquery,html,css,kotlin,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,mysql,linux&perline=7)
 
 My LinkedIn Profile:
 
