@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vladanskoko 
+- 👋 Hi, I’m @vladanskoko
 - 👀 I’m interested in Java, Spring Boot, JavaScript and Kotlin
 - 🌱 I’m currently learning Spring Boot 3 and Kotlin
 - 💞️ I’m looking to collaborate on interesting Java Spring Boot and Kotlin projects
