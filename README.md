@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>My Skills:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,javascript,jquery,html,css,kotlin,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,mysql,mongodb,linux,figma&perline=7)
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,javascript,jquery,html,css,kotlin,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,mysql,mongodb,linux,figma&perline=8)
 
 <h2>My LinkedIn Profile:</h2>
 
