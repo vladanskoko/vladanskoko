@@ -15,9 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,javascript,jquery,html,css,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,mysql,mongodb,linux,figma&perline=8)
 
-## 💼 LinkedIn Profile:
-
-## 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]("https://www.linkedin.com/in/vladanskoko/")
+## 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vladanskoko/)
 
 <a href="https://www.linkedin.com/in/vladanskoko/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
