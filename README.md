@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 - 👋 Hi, I’m @vladanskoko
 - 👀 I’m interested in Java, Spring Boot, JavaScript and Kotlin
 - 🌱 I’m currently learning Spring Boot 3 and Kotlin
@@ -20,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/vladanskoko/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladanskoko&theme=dark&background=000000)](https://git.io/streak-stats)
 
