@@ -20,3 +20,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/vladanskoko/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladanskoko&layout=compact&theme=vision-friendly-dark)](https://github.com/vladanskoko/github-readme-stats)
