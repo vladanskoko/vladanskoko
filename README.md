@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+
 - 👋 Hi, I’m @vladanskoko
 - 👀 I’m interested in Java, Spring Boot, JavaScript and Kotlin
 - 🌱 I’m currently learning Spring Boot 3 and Kotlin
