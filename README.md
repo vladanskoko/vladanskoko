@@ -15,7 +15,7 @@ vladanskoko/vladanskoko is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/vladanskoko"><img src="https://api.daily.dev/devcards/v2/sp5EMal9OTvTs59up4tbT.png?r=u9p&type=wide" width="652" alt="Vladan Skoko's Dev Card"/></a>
+<a href="https://app.daily.dev/vladanskoko"><img src="https://api.daily.dev/devcards/v2/sp5EMal9OTvTs59up4tbT.png?r=u9p&type=default" width="356" alt="Vladan Skoko's Dev Card"/></a>
 
 ## 💻 Tech Stack:
 
