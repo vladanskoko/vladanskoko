@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 ## 💼 LinkedIn Profile:
 
 <a href="https://www.linkedin.com/in/vladanskoko/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
