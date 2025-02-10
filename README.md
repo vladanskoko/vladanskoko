@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
+## 📊 Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladanskoko&theme=dark&background=000000)](https://git.io/streak-stats)
 
