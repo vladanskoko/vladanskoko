@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladanskoko&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vladanskoko)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladanskoko&layout=compact&theme=vision-friendly-dark)](https://github.com/vladanskoko/github-readme-stats)
