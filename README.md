@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,javascript,jquery,html,css,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,docker,mysql,mongodb,linux,figma&perline=8)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,javascript,jquery,html,css,cs,dotnet,cpp,c,git,github,idea,eclipse,visualstudio,vscode,postman,docker,aws,mysql,mongodb,linux,figma&perline=8)
 
 ## 🌍 Socials:
 
