@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me:
 
-- 👋 Hi, I’m @vladanskoko
+- 👋 Hi, I’m @vladanskoko 
 - 👀 I’m interested in Java, Spring Boot, TypeScript and Kotlin
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on interesting Java Spring Boot and Kotlin projects
